@@ -1,0 +1,9 @@
+Día 02 - Gestión de discos
+
+Pasos realizados:
+- Crear disco en VirtualBox
+- Verificar con lsblk
+- Crear partición con fdisk
+- Formatear con mkfs
+- Montar con mount
+- Desmontar con umount
